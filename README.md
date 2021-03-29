@@ -1,2 +1,2 @@
 # Client
-A basic client app to communicate with the server based on given IP and PortNumber inputs.
+A basic client app to communicate with the server based on given IP and PortNumber inputs. It is in lab class assignment of Computer Networks lecture. <br /> With the GUI user enters two inputs being IP number and Port Number. After connection successfully establishes  the server returns a 4 digit random number, program adds the elements of the number to find its sum, than sends it back to the server. If the sum is correct server will return the proper messsage indicating that the answer is correct.
