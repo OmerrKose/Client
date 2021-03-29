@@ -1,0 +1,9 @@
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\bin\Debug\inLab1OmerKose25224.exe.config
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\bin\Debug\inLab1OmerKose25224.exe
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\bin\Debug\inLab1OmerKose25224.pdb
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.csprojResolveAssemblyReference.cache
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.Form1.resources
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.Properties.Resources.resources
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.csproj.GenerateResource.Cache
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.exe
+c:\users\omer_\documents\visual studio 2015\Projects\inLab1OmerKose25224\inLab1OmerKose25224\obj\Debug\inLab1OmerKose25224.pdb
